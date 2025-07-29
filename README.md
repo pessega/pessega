@@ -1,5 +1,5 @@
-[![🇧🇷 English](https://img.shields.io/badge/Linguagem-Português-green?style=for-the-badge)](./README.md)
-[![🇺🇸 Portuguese](https://img.shields.io/badge/Language-English-blue?style=for-the-badge)](./README.pt.md)
+[![🇧🇷 Portuguese](https://img.shields.io/badge/Linguagem-Português-green?style=for-the-badge)](./README.pt.md)
+[![🇺🇸 English](https://img.shields.io/badge/Language-English-blue?style=for-the-badge)](./README.md)
 
 
 # 👋 Hi there! I'm Andressa Duarte
